@@ -11,15 +11,6 @@
 
 
 
----
-
-## 💰 Funding & Data Statement / 基金与数据声明
-
-This research was supported by Zhejiang Provincial Natural Science Foundation of China under Grant No. LY23C140004.
-In collaboration with local government departments, this project has signed relevant confidentiality agreements. For this reason, we only display partial data samples instead of sharing the complete raw data.
-
----
-
 ## 🎯 Research Background / 研究背景
 Termites are destructive pests that threaten buildings, water conservancy projects and cultural relics, causing global economic losses of up to 40 billion USD annually. With global warming, the activity range of termites continues to expand.
 
@@ -47,15 +38,16 @@ The whole network consists of four core modules:
 
 <div align="center">
 <!-- 此处放置模型整体结构图 -->
-<img src="f5.pdf" width="800" alt="PAFTI-Net Architecture">
+<img src="f5.png" width="800" alt="PAFTI-Net Architecture">
 <p><i>Figure 3. Overall architecture of the proposed PAFTI-Net</i></p>
 </div>
 
-<div align="center">
-<!-- 此处放置分类头细节图 -->
-<img src="f6.png" width="300" alt="Classification Module">
-<p><i>Figure 4. Structure of classification module</i></p>
-</div>
 
 ---
 
+## 💰 Funding & Data Statement / 基金与数据声明
+
+This research was supported by Zhejiang Provincial Natural Science Foundation of China under Grant No. LY23C140004.
+In collaboration with local government departments, this project has signed relevant confidentiality agreements. For this reason, we only display partial data samples instead of sharing the complete raw data.
+
+---
