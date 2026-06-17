@@ -11,7 +11,7 @@
 
 
 
-## 🎯 Research Background / 研究背景
+## 🎯 Research Background 
 Termites are destructive pests that threaten buildings, water conservancy projects and cultural relics, causing global economic losses of up to 40 billion USD annually. With global warming, the activity range of termites continues to expand.
 
 1. Traditional monitoring methods such as manual inspection have the disadvantages of high cost, slow response and limited coverage;
@@ -24,7 +24,7 @@ This study takes Zhuji City, Zhejiang Province as the research area, builds a co
 
 ---
 
-## 🧠 Model Architecture / PAFTI-Net 模型结构
+## 🧠 Model Architecture / PAFTI-Net 
 PAFTI-Net follows the design logic: `Adaptive Feature Enhancement → Multi-path Parallel Feature Extraction → Dynamic Fusion → Classification`.
 
 The whole network consists of four core modules:
@@ -36,16 +36,12 @@ The whole network consists of four core modules:
 3. **DPFM (Dynamic Path Fusion Module)**: Adaptively fuse features from three branches;
 4. **Classification Head**: Temporal attention pooling + fully connected layers to output infestation level.
 
-<div align="center">
-<!-- 此处放置模型整体结构图 -->
-<img src="f5.png" width="800" alt="PAFTI-Net Architecture">
-<p><i>Figure 3. Overall architecture of the proposed PAFTI-Net</i></p>
-</div>
+
 
 
 ---
 
-## 💰 Funding & Data Statement / 基金与数据声明
+## 💰 Funding & Data Statement 
 
 This research was supported by Zhejiang Provincial Natural Science Foundation of China under Grant No. LY23C140004.
 In collaboration with local government departments, this project has signed relevant confidentiality agreements. For this reason, we only display partial data samples instead of sharing the complete raw data.
