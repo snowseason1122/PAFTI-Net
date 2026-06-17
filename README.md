@@ -1,15 +1,6 @@
 # PAFTI-Net: A Parallel Deep Learning Model for Termite Infestation Level Prediction Using Gas Monitoring Data
 > Official Project Repository |  Paper
 
-<!-- <div align="center">
-  <!-- <img src="https://img.shields.io/badge/Journal-IEEE%20Access-blue" alt="Journal"> -->
-  <!-- <img src="https://img.shields.io/badge/DOI-10.1109%2FACCESS.2024.0429000-orange" alt="DOI"> -->
-  <img src="https://img.shields.io/badge/Python-3.9-green" alt="Python">
-  <img src="https://img.shields.io/badge/Framework-PyTorch%202.0-red" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Task-Time%20Series%20Classification-purple" alt="Task">
-</div> -->
-
-
 
 ##  Research Background 
 Termites are destructive pests that threaten buildings, water conservancy projects and cultural relics, causing global economic losses of up to 40 billion USD annually. With global warming, the activity range of termites continues to expand.
@@ -37,8 +28,6 @@ The whole network consists of four core modules:
 4. **Classification Head**: Temporal attention pooling + fully connected layers to output infestation level.
 
 
-
-
 ---
 
 ##  Funding & Data Statement 
@@ -46,4 +35,3 @@ The whole network consists of four core modules:
 This research was supported by Zhejiang Provincial Natural Science Foundation of China under Grant No. LY23C140004.
 In collaboration with local government departments, this project has signed relevant confidentiality agreements. For this reason, we only display partial data samples instead of sharing the complete raw data.
 
----
